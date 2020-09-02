@@ -9,7 +9,7 @@
 # RP Link:
 
 **Day One:**
-[PR](https://github.com/ahmad-swedani/Data Analysis with Pandas/pull/1)
+[PR](https://github.com/ahmad-swedani/vg-stats-pandas/pull/1)
 
 
 # Notes:
